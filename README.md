@@ -1,2 +1,2 @@
-# Project 2
-Red vs Blue Project
+# Capstone Engagement
+Assessment, Analysis, and Hardening of a Vulnerable System
